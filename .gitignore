@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Emulator/ROM assets (do not commit)
+Pokemon_ Gold Version/
+*.gbc
+*.gb
+*.sav
+*.state
+*.zip
+
+# Local state saves
+states/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
