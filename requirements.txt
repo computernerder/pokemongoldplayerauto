@@ -1,0 +1,6 @@
+pyboy>=1.6.12
+keyboard>=0.13.5
+requests>=2.32.0
+pytest>=8.3.0
+customtkinter>=5.2.2
+pillow>=11.0.0
